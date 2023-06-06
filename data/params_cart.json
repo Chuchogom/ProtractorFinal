@@ -1,0 +1,11 @@
+{
+    "cartView": {
+        "cart": {
+            "selector": "shopping_cart_link"
+        },
+        "checkout":
+        {
+            "selector": "checkout"
+        }
+    }
+}

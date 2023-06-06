@@ -1,0 +1,14 @@
+{
+    "shop": {
+        "backpack": {
+            "selector": "add-to-cart-sauce-labs-backpack"
+        },
+        "light":
+        {
+            "selector": "add-to-cart-sauce-labs-bike-light"
+        },
+        "tshirt": {
+            "selector": "add-to-cart-test.allthethings()-t-shirt-(red)"
+        }
+    }
+}

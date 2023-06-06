@@ -1,0 +1,20 @@
+{
+  "name": "protractorfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor ./configurations/protractor.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^5.0.0",
+    "docxtemplater": "^3.37.9",
+    "nano-time": "^1.0.0",
+    "pizzip": "^3.1.4",
+    "protractor": "^7.0.0",
+    "selenium-webdriver": "^4.9.2"
+  }
+}

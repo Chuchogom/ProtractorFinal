@@ -1,0 +1,21 @@
+{
+    "form": {
+        "inputName": {
+            "selector": "first-name",
+            "text": "Jesus"
+        },
+        "inputLastName":
+        {
+            "selector": "last-name",
+            "text": "Gomez"
+        },
+        "inputPostalCode": {
+            "selector": "postal-code",
+            "text": "77450"
+        },
+        "btnContinue":
+        {
+            "selector": "continue"
+        }
+    }
+}

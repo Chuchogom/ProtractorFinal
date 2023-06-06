@@ -1,0 +1,16 @@
+{
+    "homepage": {
+        "inputUser": {
+            "selector": "user-name",
+            "text": "standard_user"
+        },
+        "inputPassword":
+        {
+            "selector": "password",
+            "text": "secret_sauce"
+        },
+        "btnLogin": {
+            "selector": "login-button"
+        }
+    }
+}
